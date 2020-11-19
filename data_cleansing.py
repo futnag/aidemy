@@ -169,13 +169,6 @@ def training():
     print(res)
 
 
-
-"""
-people come and go and walk away
-but I'm not going anywhere
-I'm not going anywhere
-"""
-
 データクレンジング
     3.1.1
     チャンネル数
